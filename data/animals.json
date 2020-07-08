@@ -126,6 +126,28 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Jane",
+      "species": "Chimpanzee",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Bob",
+      "species": "Meercat",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
